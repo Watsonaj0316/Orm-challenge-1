@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Watsonaj0316",
+    "password": "Nbayoungboy10!",
+    "database": "ecommerce_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "Watsonaj0316",
+    "password": "Nbayoungboy10!",
+    "database": "ecommerce_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "Watsonaj0316",
+    "password": "Nbayoungboy10!",
+    "database": "ecommerce_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
