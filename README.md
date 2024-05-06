@@ -23,13 +23,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ### Installation
 
-
-
-first commit
-
 [Express.js](https://expressjs.com/en/starter/installing.html)
 
-update README
 [MySQL](https://www.mysql.com/)
 
 [Sequelize](https://sequelize.org/)
